@@ -1,8 +1,0 @@
-# Copy this file to terraform.tfvars and fill in your Azure credentials
-# IMPORTANT: Never commit terraform.tfvars to version control!
-
-azure_subscription_id = "your-subscription-id-here"
-azure_client_id       = "your-client-id-here"
-azure_client_secret   = "your-client-secret-here"
-azure_tenant_id       = "your-tenant-id-here"
-aws_region            = "ap-south-1"
