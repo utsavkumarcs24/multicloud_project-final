@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "my_bucket" {
-  bucket = "my-unique-terraform-bucket-12345"
+  bucket = "my-first-bucketutsav"  # Change to a globally unique name
 
   tags = {
     Name        = "MyTerraformBucket"
