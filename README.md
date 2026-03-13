@@ -1,6 +1,5 @@
 # Multicloud Deployment API
 
-[![CI/CD Pipeline](https://github.com/utsavkumarcs24/multicloud_project-final/actions/workflows/pipeline.yml/badge.svg)](https://github.com/utsavkumarcs24/multicloud_project-final/actions/workflows/pipeline.yml)
 
 A Flask-based REST API for deploying infrastructure across AWS and Azure using Terraform.
 
